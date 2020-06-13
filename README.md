@@ -22,6 +22,8 @@ command1
 command2 --help
 # Click group command.
 command3 --help
+# Rich command.
+command4 --help
 ```
 
 ## Testing
@@ -29,3 +31,14 @@ command3 --help
 ```sh
 poetry run pytest
 ```
+
+## Ecosystem
+
+* Poetry
+   * Python environment management.
+* Click
+   * CLI development kit.
+* pytest
+   * Testing framework.
+* Loguru
+   * Simple logger.
