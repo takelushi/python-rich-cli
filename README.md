@@ -20,6 +20,8 @@ poetry shell
 command1
 # Click simple command
 command2 --help
+# Click group command.
+command3 --help
 ```
 
 ## Testing
