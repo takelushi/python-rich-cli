@@ -16,7 +16,10 @@ poetry install
 
 ```sh
 poetry shell
+# Simple command
 command1
+# Click simple command
+command2 --help
 ```
 
 ## Testing
